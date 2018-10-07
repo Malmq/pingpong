@@ -1,0 +1,15 @@
+
+.btn {
+  background-color: #800020;
+  color: #ffffff;
+}
+
+h1 {
+  color: #800020;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+#result {
+  display: none;
+}
